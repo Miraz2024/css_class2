@@ -1,0 +1,26 @@
+img{
+width: 250px;
+height:300px;
+
+}
+.cls1{
+
+  width: 320px;
+  height: 700px;
+border-color: black;
+border-style: dotted;
+}
+.cls2{
+font-style: italic;
+font-size: small;
+  width: 100px;
+  height: 25px;
+  background-color: rgb(190, 184, 174);
+}
+.cls3{
+  color: brown;
+  
+}
+.cls4{
+color: black;
+}
